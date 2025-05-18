@@ -1,2 +1,2 @@
 # Rishugit
-its a attendance management project.
+it is a attendance management project.
